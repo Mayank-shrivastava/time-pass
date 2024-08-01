@@ -1,0 +1,129 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "SearchElementInSortedArray",
+      "request": "launch",
+      "mainClass": "BinarySearch.SearchElementInSortedArray",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "BFS",
+      "request": "launch",
+      "mainClass": "Graphs.BFS",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "ArrayIntoSet",
+      "request": "launch",
+      "mainClass": "Hashing.ArrayIntoSet",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "CommonCharacters",
+      "request": "launch",
+      "mainClass": "Hashing.CommonCharacters",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "PrefixSum",
+      "request": "launch",
+      "mainClass": "Hashing.PrefixSum",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "Session1",
+      "request": "launch",
+      "mainClass": "Hashing.Session1",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "P4",
+      "request": "launch",
+      "mainClass": "PatternProblems.P4",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "P2",
+      "request": "launch",
+      "mainClass": "PatternProblems.P2",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "P1",
+      "request": "launch",
+      "mainClass": "PatternProblems.P1",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "IteratorDemo",
+      "request": "launch",
+      "mainClass": "Collections.IteratorDemo",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "BubbleSort",
+      "request": "launch",
+      "mainClass": "Sorting.BubbleSort",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "Maps",
+      "request": "launch",
+      "mainClass": "Maps",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "ReadData",
+      "request": "launch",
+      "mainClass": "FileHandlingInJava.ReadData",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "Inputs",
+      "request": "launch",
+      "mainClass": "Inputs",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "DSA_598eae40"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/mayan/OneDrive/Desktop/books/APP-FOLDER/DSA_Java/DSA/src/codingBlocks",
+      "program": "c:/Users/mayan/OneDrive/Desktop/books/APP-FOLDER/DSA_Java/DSA/src/codingBlocks/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

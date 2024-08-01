@@ -1,0 +1,24 @@
+Core interfaces 
+- Java Collection
+- Java List
+- Set
+- SortedSet
+- navigableSet
+- Map
+- SortedMap
+- NavigableMap
+- Stack
+- Queue
+- Deque
+- Iterator
+- Iterable
+
+The Java Collections API also contains useful
+implementations of the above interfaces, 
+and a few other utility classes. Some of these are:
+- Collections
+- Properties
+- Comparable
+- Comparator
+
+
